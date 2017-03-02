@@ -1,0 +1,1 @@
+For the programs provided to work properly, this folder should be moved to reside within the “video_files” folder.

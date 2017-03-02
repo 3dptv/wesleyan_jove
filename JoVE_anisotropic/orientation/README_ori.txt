@@ -1,0 +1,1 @@
+In this folder are the MATLAB programs that load in video files from the four cameras and the output of the cluster-finding code and then run a nonlinear least-squares optimization on the orientation of each particle on every frame. The result of this program is also included in this folder, as are the results of the programs in the “data” folder.

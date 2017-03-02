@@ -1,0 +1,13 @@
+MATLAB codes instructions:
+
+1. Open "Organize_Files.m" in MATLAB.
+2. Change line 16 to the correct path. Change line 7 if needed.
+3. Run "Organize_Files". This will put all of the files in the correct folders to be read and understood by the rest of the functions.
+4. Manually move "Organize_Files" into the folder holding all of the other supplemental files.
+4. Open "find_clusters.m" in MATLAB, read the README file in the "clusters" folder.
+5. Change lines 5 and 14, as needed.
+6. Run "find_clusters". This function goes through the four video files and finds where clusters of bright pixels are on each.
+7. Open "find_orientation.m" in MATLAB, read the README file in the "orientation" folder.
+8. Change lines 6 and 15, as needed.
+9. Run "find_orientations". This function takes the stereomatched cluster positions and optimizes particle orientations at every frame, splices tracks together, and calculates rotation rates for different fit lengths. Read the commends in each of the functions and the README files for more details.
+

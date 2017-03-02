@@ -1,0 +1,1 @@
+In this folder are only two programs: splice_tracks makes sure that all tracks that were identified as different particles at the first step actually are, since a variation in illumination or a missing frame could cause the track to get split into multiple tracks; calc_rotation calculates the rotation rate of these particles as a function of fit length.

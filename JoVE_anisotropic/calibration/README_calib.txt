@@ -1,0 +1,1 @@
+In this folder is the camera calibration file used by all of the programs. It is created as described in the Protocol, but the programs used to create it unfortunately cannot be included in this publication.
